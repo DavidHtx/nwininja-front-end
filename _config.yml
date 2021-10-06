@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
+  project_title: "metadata-example"
+  project_tagline: "A GitHub Pages site to showcase repository metadata"
