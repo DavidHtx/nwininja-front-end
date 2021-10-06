@@ -1,4 +1,6 @@
-## This is a table!
+## Welcome to nwi.ninja!
+
+# This is a table
 
 | Syntax      | Description |
 | ----------- | ----------- |
