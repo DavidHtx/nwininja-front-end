@@ -13,7 +13,7 @@ permalink: /tourdates/
   <h2>I'm coming EVERYWHERE</h2>
   <h3>World tour!</h3>
   
-  <table cellspacing="0">
+  <table cellspacing="1">
 	  <tbody>
 	<tr>
 		<th colspan="4" >
@@ -46,20 +46,6 @@ permalink: /tourdates/
 		
 	</tr>
 	
-	<tr >
-	
-		<td >
-					</td>
-		
-		<td colspan="3">
-		
-							<span ><span >Time:</span> 7:00pm.</span>
-
-							<span ><strong >Sold Out</strong></span>
-
-		</td>
-	
-	</tr>
 </tbody>	
 
 <tbody>
@@ -78,20 +64,6 @@ permalink: /tourdates/
 		
 	</tr>
 	
-	<tr >
-	
-		<td >
-					</td>
-		
-		<td colspan="3">
-		
-							<span ><span >Time:</span> 8:00pm.</span>
-
-							<span ><strong >Sold Out</strong></span>
-	
-		</td>
-	
-	</tr>
 </tbody>	
 
 <tbody>
@@ -110,20 +82,6 @@ permalink: /tourdates/
 		
 	</tr>
 	
-	<tr >
-	
-		<td >
-					</td>
-		
-		<td colspan="3">
-		
-							<span ><span >Time:</span> 7:00pm.</span>
-						
-							<span ><strong >Sold Out</strong></span>
-
-		</td>
-	
-	</tr>
 </tbody>	
 
 <tbody>
@@ -142,15 +100,6 @@ permalink: /tourdates/
 		
 	</tr>
 	
-	<tr >
-
-		<td >
-					</td>
-		<td colspan="3">
-							<span ><span >Time:</span> 7:00pm.</span>
-							<span ><strong >Sold Out</strong></span>
-		</td>
-	</tr>
 </tbody>	
 </table>
 </div>
