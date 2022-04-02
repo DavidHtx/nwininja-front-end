@@ -14,6 +14,13 @@ permalink: /tourdates/
   <h3>World tour!</h3>
   
   <table cellspacing="0">
+	  <tbody>
+	<tr>
+		<th colspan="4" >
+			I’m Coming Everywhere – World Tour<br>		</th>
+	</tr>	
+</tbody>
+	  
 	<tbody>
 		<tr >
 			<th scope="col" >Date</th>
@@ -23,12 +30,7 @@ permalink: /tourdates/
 				</tr>
 	</tbody>
 	
-<tbody>
-	<tr>
-		<th colspan="4" >
-			I’m Coming Everywhere – World Tour<br>		</th>
-	</tr>	
-</tbody>
+
 
 <tbody>
 	
