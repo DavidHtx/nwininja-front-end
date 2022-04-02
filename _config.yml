@@ -3,3 +3,6 @@ github:
   is_project_page: false
   project_title: "metadata-example"
   project_tagline: "Comedy delivered right to your ears"
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
