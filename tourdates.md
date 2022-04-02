@@ -36,11 +36,11 @@ permalink: /tourdates/
 	
 	<tr >
 	
-		<td >April 02, 2022						<br><div style="font-size: 14px;">7:00pm</div>
+		<td >April 02, 2022                           <br><div style="font-size: 14px;">7:00pm</div>
 		</td>
 		
 		<td>Titan<br></td>
-		<td>New Pacific Arcology<br><div></div></td>
+		<td>New Pacific Arcology         <br><div></div></td>
 
 		<td ><strong >Sold Out</strong></td>
 		
@@ -52,12 +52,12 @@ permalink: /tourdates/
 	
 	<tr >
 	
-		<td >April 03, 2022						<br><div style="font-size: 14px;">8:00pm</div>
+		<td >April 03, 2022			<br><div style="font-size: 14px;">8:00pm</div>
 		</td>
 		
 		
-		<td>Mercury<br></td>
-		<td>Fields Of Glass<br><div></div></td>
+		<td>Mercury                                  <br></td>
+		<td>Fields Of Glass                 <br><div></div></td>
 		
 	                
 		<td ><strong >Sold Out</strong></td>
@@ -70,7 +70,7 @@ permalink: /tourdates/
 	
 	<tr >
 	
-		<td >April 06, 2022						<br><div style="font-size: 14px;">7:00pm</div>
+		<td >April 06, 2022<br><div style="font-size: 14px;">7:00pm</div>
 		</td>
 		
 		
