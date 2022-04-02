@@ -1,1 +1,3 @@
+permalink: /tourdates.html
+
 test
